@@ -1,6 +1,6 @@
 
 
-<h1 style="font:oblique bold 120% cursive">Ejemplo de prueba de funcionamento de PHP / HTML</h1>
+<h1 style="font:oblique bold 120% cursive">Exemple de prova de funcionament PHP / HTML</h1>
 </br>
 </br>
 
